@@ -1,0 +1,8 @@
+pysqlite3-binary
+streamlit
+python-dotenv
+openai==0.27.10
+embedchain==0.0.69
+embedchain[llama2]
+PyPDF2
+
